@@ -1,0 +1,11 @@
+{
+  "modid": "moohuduibars",
+  "name": "Moo HudUI Mod Bars",
+  "description": "Adds HudUI bars for S;eep Need and Expanded Stomach if installed.",
+  "version": "1.0.0",
+  "type": "code",
+  "authors": ["Evelymoo"],
+  "dependencies" : {
+    "hudui": ""
+  }
+}

@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>disable</Nullable>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <NoWarn>$(NoWarn);MSB3277</NoWarn>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="VintagestoryAPI">
+            <HintPath>D:\My Games\Vintagestory/VintagestoryAPI.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="OpenTK.Mathematics">
+            <HintPath>D:\My Games\Vintagestory/Lib/OpenTK.Mathematics.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="HudUI">
+            <HintPath>lib/HudUI.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Gui">
+            <HintPath>lib/Gui.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="SleepNeed">
+            <HintPath>lib/SleepNeed.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+    </ItemGroup>
+    <ItemGroup>
+    <Content Include="modinfo.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="assets\**\*">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    </ItemGroup>
+
+    <Target Name="PackageMod" AfterTargets="Build">
+    <ZipDirectory
+        SourceDirectory="$(OutputPath)"
+        DestinationFile="$(ProjectDir)MooHudUIBars.zip"
+        Overwrite="true" />
+    <Copy
+        SourceFiles="$(ProjectDir)MooHudUIBars.zip"
+        DestinationFolder="C:\Users\Evelyn\AppData\Roaming\VintagestoryData\Mods" />
+    </Target>
+</Project>

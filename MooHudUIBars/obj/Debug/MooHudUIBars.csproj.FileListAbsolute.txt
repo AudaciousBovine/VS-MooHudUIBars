@@ -1,0 +1,14 @@
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\MooHudUIBars.csproj.AssemblyReference.cache
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\MooHudUIBars.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\MooHudUIBars.AssemblyInfoInputs.cache
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\MooHudUIBars.AssemblyInfo.cs
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\MooHudUIBars.csproj.CoreCompileInputs.cache
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\MooHudUIBars.sourcelink.json
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\bin\Debug\MooHudUIBars.deps.json
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\bin\Debug\MooHudUIBars.dll
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\bin\Debug\MooHudUIBars.pdb
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\MooHudUIBars.dll
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\refint\MooHudUIBars.dll
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\MooHudUIBars.pdb
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\obj\Debug\ref\MooHudUIBars.dll
+E:\My Projects\Modding\Vintage Story Modding\My Mods\VS-MooHudUIBars\MooHudUIBars\bin\Debug\modinfo.json
